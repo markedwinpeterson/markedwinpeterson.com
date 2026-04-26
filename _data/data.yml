@@ -8,31 +8,31 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Mark Edwin Peterson
+  tagline: Academic Special Collections Scholar
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: mailbox@markedwinpeterson.com
+  phone: 540-416-0961
+  timezone: America/New York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: USA
+  website: https://markedwinpeterson.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: #
+  xing: #
+  github: markedwinpeterson
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: '@rarebooklibrarian' # Specify your full Bluesky handle
+  twitter: #
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://www.markedwinpeterson.com/assets/MarkEdwinPetersonCV.pdf
 
   languages:
     title: Languages
@@ -40,24 +40,27 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
+    - idiom: German
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Norwegian
+      level: Basic
+
+    - idiom: Medieval Latin
+      level: Basic
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Canoeing
       link:
 
 
-    - item: Snowboarding
+    - item: Bookbinding
       link:
 
 
-    - item: Cooking
+    - item: Gardening
       link:
 
 
@@ -73,174 +76,149 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: ABD in Cultural Studies
+    university: George Mason University
+    time: 2019 - present
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Proposed thesis on incunabula in American special collections.
+  - degree: MLS in Library Science
+    university: University of North Carolina
+    time: 2006-2008
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      Thesis: “Improving Recovery for Libraries that Have Been Hit by Disaster.” https://cdr.lib.unc.edu/record/uuid:a7e3e8b2-dcb0-4a0a-89a5-3d6a513327c3
+  - degree: PhD in History
+    university: University of Wisconain
+    time: 1993-2000
+    details: |
+      Thesis: “Innovation, Investment, and the Development of Commercial Beer Brewing within the Wendish Towns of Late Medieval Germany.” https://search.library.wisc.edu/catalog/999923327502121
+  - degree: BA in History with a Minor in English
+    university: Lewis &amp; Clark College
+    time: 1988-1992
+    details: |
+      Thesis: "Prison Across the Waters: State Control and Penal Policy in Van Diemen's Land."
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Librarian
+    time: 2017-2020
+    company: Woodrow Wilson Presidential Library & Museum
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
+      Managed the rare books and archival manuscripts of the historic collection. Built a digital archive using Omeka: presidentwilson.org
+  - role: Rare Books & Research Services Librarian
     time: 2014 - 2015
-    company: Google, London
+    company: James Madison University
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Handled reference questions and gave presentations on special collections. Trained interns in writing finding aids and handling archival materials. Managed rare book collection. Served as interim director of special collections for over a year.
+  - role: Rare Book Librarian
+    time: 2009-2011
+    company: Medical School of Washington University in St. Louis
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      Managed rare book collection including acquisitions, budgeting, and cataloging.
 
 publications:
-  title: Publications
+  title: Papers
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    I have written on a wide range of topics related to history and libraries. The list of published articles is followed by a list of my conference presentations over the years. Published papers are not repeated. At several of my jobs, I have also been responsible for writing researched blog entries on historical topics.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: "Multi-Generational Stories of Urban Renewal - Preliminary Interviews for Map-based Storytelling"
+    authors: Myeong Lee, Tammy Dam, Bezawit Challa, and Priscilla Robinson
+    conference: "Diversity, Divergence, Dialogue. iConference 2021 Proceedings, LNCS. 319-326. Berlin, 2021"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: "Reading as Spiritual Journey St. Bridget of Sweden"
+    conference: "Soul Travel - Spiritual Journeys in Late Medieval and Early Modern Europe. Ed. Jennifer Hillman & Elizabeth Tingle. Oxford, 2019. Chap. 1"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: "Footnotes and Dictators"
+    conference: "Lincoln Humanities Journal 5 (2017)"
+
+  - title: "Two Brass Mites of the Widow - Saint Bridget of Sweden and the Terrors of Hell"
+    conference: "The Hermeneutics of Hell - Visions and Representations of the Devil in World Literature. Ed. Gregor Thuswaldner & Daniel Russ. London, 2017. Chap. 2"
+
+  - title: "German Readers and the Formation of the Henkel Press in Virginia"
+    conference: "Yearbook of German-American Studies 51 (2016) 135-146"
+    
+  - title: "Pulp in the Ivory Tower - One University Library’s Development of a Pulp Magazine Collection from Scratch"
+    authors: Brian Flota and Julia Merkel
+    conference: "College & Research Libraries News 77, no. 8 (2016) 374-77"
+    
+  - title: "Drinking in the Streets - The Street as a Public Space for the Sale and Consumption of Alcohol"
+    conference: "Die Strasse - zur Funktion und Perzeption öffentlichen Raums im späten Mittelalter. Ed. Gerhard Jaritz. Vienna. Austrian Academy of Science, 2001. 197-204"
+
+  - title: "The Power of Aura and How to Possess It, or, The Race for Incunabula in America’s First Golden Age"
+    conference: "International Conference on Medieval Studies. Kalamazoo, Michigan, May 2026"
+  - title: "The Politics of Peabody, or, Unearthing the Reasons for Collecting and Donating Old Books"
+    conference: "C19 - The Society of Nineteenth Century Americanists Conference, Cincinnati, March 2026"
+    
+  - title: "Early American Medievalists and the Tales They Told"
+    conference: "Southwest Popular/American Culture Association Conference, Albuquerque, February 2026"
+    
+  - title: "Finding Memory in Files and Memoirs"
+    conference: "Northeast Modern Language Association Conference, Philadelphia, March 2025."
+    
+  - title: "Code Shift - Popular Culture in Special Collections"
+    conference: "Southwest Popular/American Culture Association Conference, Albuquerque, February 2025"
+    
+  - title: "Collection as Conclusion and Beginning - Jorge Luis Borges"
+    conference: "Cultural Studies Conference, George Mason University, June 2023"
+
+  - title: "Archives as Branding The D23 Fan Club Use of the Disney Archives"
+    conference: "November 2021, Pacific Ancient and Modern Language Association Conference, Las Vegas, January 2021"
+
+  - title: "Special Collections & the Libraries Destroyed in Sarajevo - What Librarians Think"
+    conference: "Student Organizing Committee Student Panel, George Mason University, Fairfax, Virginia, April 2021"
+
+  - title: "Poverty, Privacy, Race & Renewal - Questions of Access and Illustration of the Housing Authority Records of Asheville, North Carolina"
+    conference: "Africa and African-American Diaspora Conference, James Madison University, Harrisonburg, Virginia, February 2021"
+
+  - title: "Scattered Leaves - Comparing the Availability and Searchability of the Wilson and Roosevelt Papers"
+    conference: "Digital Archives in the Commonwealth Summit, Richmond, Virginia, December 2019"
+
+  - title: "Four Presidents - Libraries & Power"
+    conference: "Association of Library and Information Science Education Annual Conference, Knoxville, Tennessee, September 2019"
+
+  - title: "Archival Fantasies"
+    conference: "Southwest Popular/American Culture Annual Conference, Albuquerque, February 2019"
+
+  - title: "Understanding the US Presidential Archives Online"
+    conference: "Teaching and Learning with Technology Conference, James Madison University, Harrisonburg, Virginia, October 2018"
+
+  - title: "Brewers’ Beast - Traditional Symbols for Marketing US Beer"
+    conference: "PCA/ACA Annual Pop Culture Conference, San Diego, April 2017"
+
+  - title: "Experience the World Without Buying the World - Teaching the History of Island Exploration Literature on a Budget"
+    conference: "Islands - College English Association 48th Annual Conference, Hilton Head Island, South Carolina, April 2017"
+
+  - title: "Selling Visions - The Revelationes of St. Bridget of Sweden, 1303-1373"
+    conference: "On Nearness, Order & Things - Collecting and Material Cultures from 1400 to Today Conference, Northrup Frye Centre Conference, Toronto, April 2016"
+
+  - title: "Reading Old Books - The 17th Century Life of St. Bridget of Sweden (1303-1373)"
+    conference: "New College Biennial Conference on Medieval & Renaissance Studies, March 2016"
+
+  - title: "Post-Racial Paratext in the Works of Junot Diaz and Salvador Plascencia"
+    conference: "Popular Culture Association/American Culture Association International  Conference, Reykjavik, Iceland, July 2015"
+
+  - title: "Reading Bridget's Visions in the Vernacular during the Sixteenth Century"
+    conference: "Renaissance Print Culture - An Aldine Quincentennial Symposium at the Newberry Library Conference, Chicago, February 2015"
+
+  - title: "Turning Visions into Revelationes The Book of St. Bridget of Sweden (1303-1373)"
+    conference: "Medieval & Renaissance Forum at UNH-Plymouth, April 2014"
+
+  - title: "Deadly Storytime - A History of Violence in Children’s Literature, 1830-1950"
+    conference: "Violence Empowerment or Self-Destruction Conference James Madison University, Harrisonburg, Virginia, April 2014"
+
+  - title: "Recording the Visions of St. Bridget of Sweden (1303- 1373)"
+    conference: "Mid-Atlantic Renaissance and Reformation Seminar Conference, Christopher Newport University, Newport News, Virginia, February 2014"
+
+  - title: "Teaching the History of Medicine at Washington University in the Early 20th Century"
+    conference: "Southern Association of the History of Medicine and Science Annual Meeting Conference, Louisville, Kentucky, March 2010"
+
+  - title: "After the Deluge - Long-Term Responses to Library Disasters with Some Lessons for the Future"
+    conference: "American Library Association Annual  Conference, Anaheim, California, June 2008 "
+
+  - title: "The Earliest Beers"
+    conference: "Medieval Association of the Pacific Annual Meeting, Portland, Oregon, March 2003"
+
+  - title: "Beer Brewers and Beer Drinkers in Northern Europe during the Late Middle Ages"
+    conference: "Borderlines IV - Visions of the Medieval World Conference, Dublin, Ireland, March 2000"
 
 recommendations:
   title: Recommendations
@@ -264,20 +242,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Rare Book Cataloging
+    level: 70%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Special Collections Management
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Writing of Archival Finding Aids
+    level: 80%
+
+  - name: Historical Research
+    level: 98%
+
+  - name: Teaching
+    level: 70%
+
+  - name: Digital Humanities
+    level: 60%
 
   - name: Sketch & Photoshop
     level: 60%
