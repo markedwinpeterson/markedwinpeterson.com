@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Mark Edwin Peterson
-  tagline: Academic Special Collections Scholar
+  tagline: Special Collections Scholar
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
   phone: 540-416-0961
   timezone: America/New York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: USA
-  website: https://markedwinpeterson.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://markedwinpeterson.com # Include the full website URL, including "http://" or "https://".
   linkedin: #
   xing: #
   github: markedwinpeterson
@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: https://www.markedwinpeterson.com/assets/MarkEdwinPetersonCV.pdf
+  pdf: /assets/MarkEdwinPetersonCV.pdf
 
   languages:
     title: Languages
@@ -67,12 +67,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Initially trained in Medieval/Reformation History at the University of Wisconsin, I have taught classes in European and World History at a number of schools, including the University of Wisconsin-Oshkosh, the University of Oregon, Oregon University, and Concordia College.
+    After a job teaching on Semester at Sea twenty years ago, I decided to become a librarian and went on to work with rare books and archives at Washington University in St. Louis, James Madison University, and the Woodrow Wilson Presidential Library.
+    I have spent the last few years studying for a second PhD in Cultural Studies from George Mason University. My scholarship focuses on the cultural meaning and significance of written heritage collections. My teaching stress the importance of academic special collections to modern education.
 education:
   title: Education
   info:
@@ -118,7 +115,7 @@ experiences:
 publications:
   title: Papers
   intro: |
-    I have written on a wide range of topics related to history and libraries. The list of published articles is followed by a list of my conference presentations over the years. Published papers are not repeated. At several of my jobs, I have also been responsible for writing researched blog entries on historical topics.
+    I have written on a wide range of topics related to history and libraries. The list of published articles is followed by many of my conference presentations over the years. Published papers are not repeated. At several of my jobs, I have also been responsible for writing researched blog entries on historical topics.
   papers:
   - title: "Multi-Generational Stories of Urban Renewal - Preliminary Interviews for Map-based Storytelling"
     authors: Myeong Lee, Tammy Dam, Bezawit Challa, and Priscilla Robinson
@@ -219,25 +216,7 @@ publications:
 
   - title: "Beer Brewers and Beer Drinkers in Northern Europe during the Late Middle Ages"
     conference: "Borderlines IV - Visions of the Medieval World Conference, Dublin, Ireland, March 2000"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
+  
 skills:
   title: Skills &amp; Proficiency
 
@@ -258,9 +237,6 @@ skills:
     level: 70%
 
   - name: Digital Humanities
-    level: 60%
-
-  - name: Sketch & Photoshop
     level: 60%
 
 footer: >
