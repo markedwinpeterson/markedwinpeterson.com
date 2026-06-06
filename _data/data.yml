@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: assets/MarkEdwinPetersonCV.pdf
+  pdf: https://markedwinpeterson.com/assets/MarkEdwinPetersonCV.pdf
 
   languages:
     title: Languages
